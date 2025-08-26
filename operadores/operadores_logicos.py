@@ -15,6 +15,7 @@ resultado8 = False | False #devuelve False
 #not
 
 resultado9 = not True #devuelve False
+#Ejemplo resultado9 = not 2 < 3
 resultado10 = not False #devuelve True
 
 print(resultado10)
